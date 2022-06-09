@@ -54,12 +54,6 @@ button{
     background-color: darkgray;
 }
 
-button:hover{
-    transition: 0.05s;
-    background-color: lightblue;
-    box-shadow: 0 0 50px -5px lightblue;
-}
-
 button:active{
     transform: translateY(10px);
     transform: rotateZ(1deg);
